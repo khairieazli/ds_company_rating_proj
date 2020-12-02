@@ -1,4 +1,4 @@
-# ds_rating_proj
+# ds_comp_rating_proj
 
 ## resources
 https://github.com/arapfaik/scraping-glassdoor-selenium
